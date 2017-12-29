@@ -1,0 +1,7 @@
+.DS_Store
+.floydexpt
+.floydignore
+.ipynb_checkpoints
+__pycache__
+floyd_requirements.txt
+data
